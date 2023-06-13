@@ -1,0 +1,14 @@
+D:\visualStudioC#\basic_collection\basic_collection\bin\Debug\basic_collection.exe.config
+D:\visualStudioC#\basic_collection\basic_collection\bin\Debug\basic_collection.exe
+D:\visualStudioC#\basic_collection\basic_collection\bin\Debug\basic_collection.pdb
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.csproj.AssemblyReference.cache
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.csproj.SuggestedBindingRedirects.cache
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.Properties.Resources.resources
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.csproj.GenerateResource.cache
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.csproj.CoreCompileInputs.cache
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.exe
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.pdb
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.Form1.resources
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.Form2.resources
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.Form3.resources
+D:\visualStudioC#\basic_collection\basic_collection\obj\Debug\basic_collection.frm_swith_case.resources

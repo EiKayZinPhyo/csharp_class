@@ -1,0 +1,12 @@
+D:\visualStudioC#\register_login\registerLogin\registerLogin\bin\Debug\registerLogin.exe.config
+D:\visualStudioC#\register_login\registerLogin\registerLogin\bin\Debug\registerLogin.exe
+D:\visualStudioC#\register_login\registerLogin\registerLogin\bin\Debug\registerLogin.pdb
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.csproj.AssemblyReference.cache
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.csproj.SuggestedBindingRedirects.cache
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.Properties.Resources.resources
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.simple_project.frm_customers_login.resources
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.simple_project.frm_customers_register.resources
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.csproj.GenerateResource.cache
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.csproj.CoreCompileInputs.cache
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.exe
+D:\visualStudioC#\register_login\registerLogin\registerLogin\obj\Debug\registerLogin.pdb
